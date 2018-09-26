@@ -10,7 +10,9 @@ const Landing = () => <h2>Landing</h2>
 const App = () => {
   return (
     <div>
-      Hi there
+      <BrowserRouter>
+
+      </BrowserRouter>
     </div>
   )
 }
